@@ -1,0 +1,21 @@
+.box {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 30px;
+    color: rebeccapurple;
+    background-color: darkgoldenrod;
+    border: 5px solid rebeccapurple;
+    cursor: crosshair;
+}
+
+.title {
+    color: darkgoldenrod;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+
+.img-center {
+    text-align: center;
+}
